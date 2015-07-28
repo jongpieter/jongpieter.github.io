@@ -1,0 +1,12 @@
+# Site settings
+title: "YOung INnovations (yoin), by Pieter Jong"
+email: "pjong@yoin-vision.com"
+description: "Weblog from Pieter Jong for yoin"
+baseurl: ""
+url: "http://blog.yoin.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+
